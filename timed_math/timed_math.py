@@ -5,7 +5,7 @@ import time
 
 OPERATORS = ["+", "-", "*"]
 MIN_OPERAND = 3
-MAX_OPERAND = 12
+MAX_OPERAND = 25
 TOTAL_PROBLEMS = 20
 
 class TimedMathGame:
